@@ -1,0 +1,1001 @@
+input_text_bio,bio_tags
+How to go from national stacium BTS to SAINT LOUIS ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from chongnonsee station to st. lewis ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis O
+Is ratchadumri BTS stop on the same line as st louis ?,O B-Ratchadamri I-Ratchadamri I-Ratchadamri O O O O O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from Skytrain stadium national to saint luis station ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from chong nonsy BTS stop to SAPHAN TAKSIN BTS stop ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from natinalstadium to st louie ?,O O O O B-National_Stadium O B-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from Skytrain surasack to saphiantaksin station ?,O O O O O O O O O B-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from rachadumri to Skytrain siaam ?,O O O O O O O O O B-Ratchadamri O B-Siam I-Siam O
+Is sainu tlouis on the same line as SALA DAENG BTS stop ?,O B-Saint_Louis I-Saint_Louis O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from CHONG NONSI to sayam ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Siam O
+How to go from safant aksin to Skytrain st louis ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from ratchdamri station to national studiam ?,O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium O
+How to go from Skytrain siyam to saint rouis station ?,O O O O B-Siam I-Siam O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from saldaeng station to siamm BTS stop ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Siam I-Siam I-Siam O
+Is eaphantaksin station on the same line as national stadiam BTS stop ?,O B-Saphan_Taksin I-Saphan_Taksin O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from nationar stadium station to taksin bridge station ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from ratshadamri BTS to sports stadium BTS stop ?,O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Is Skytrain chong nnsi on the same line as SALA DAENG ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Sala_Daeng I-Sala_Daeng O
+How to go from siaum BTS stop to Skytrain national statium ?,O O O O B-Siam I-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from saintlouis BTS to salah daeng BTS ?,O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from surassak station to Skytrain SAINT LOUIS ?,O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from sanam keela BTS to BTS saphan taksin ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from ratchadamli to chong nonsri BTS stop ?,O O O O O O O O O B-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from BTS st. lewis to Skytrain salah daeng ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is BTS SALA DAENG on the same line as chong nonsi BTS ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from BTS sayam to saphan taxin BTS stop ?,O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from syam BTS to Skytrain saphan taksih ?,O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from BTS SIAM to saphan taxin ?,O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin O
+How to go from SURASAK to saint louis ?,O O O O B-Surasak O B-Saint_Louis I-Saint_Louis O
+How to go from saldaeng to syam ?,O O O O B-Sala_Daeng O B-Siam O
+Is sala deng station on the same line as siaintlouis BTS stop ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from saladang BTS to chong nonsii BTS ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is ratchdamri station on the same line as suradak BTS stop ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak I-Surasak O
+How to go from saint louiz station to siqm BTS ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Siam I-Siam O
+How to go from chong nonsai BTS to SAPHAN TAKSIN ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin O
+Is ratchuadamri station on the same line as saphantaksin ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Saphan_Taksin O
+Is saphan otaksin BTS on the same line as BTS chong nonsi ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from nat stadium BTS to BTS saint luis ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from chong nonsy BTS stop to BTS NATIONAL STADIUM ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from sala dasng BTS to rajadamri station ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Ratchadamri I-Ratchadamri O
+How to go from sioam to ratchadari BTS stop ?,O O O O B-Siam O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+Is saintouis station on the same line as Skytrain saphan taksen ?,O B-Saint_Louis I-Saint_Louis O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from BTS saladaeng to BTS surasek ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Surasak I-Surasak O
+How to go from BTS surasek to saphan taksen BTS stop ?,O O O O B-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from national sport stadium station to BTS saphan taksin ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from BTS chong nonsri to surasak ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Surasak O
+Where do I need to transfer to go from Skytrain sanam keela to chong non si ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from Skytrain chong nonsy to Skytrain sapadaeng ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from sioam BTS stop to sports stadium BTS ?,O O O O O O O O B-Siam I-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is Skytrain stadium bts on the same line as Skytrain surasek ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Surasak I-Surasak O
+How long does it take to go from sports stadium BTS to Skytrain st. lewis ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from natiaona lstadium BTS stop to Skytrain roatchadamri ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from sladaeng BTS stop to saephantaksin BTS stop ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from st louis BTS to sanam keela BTS ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from siamm BTS to ntl stadium BTS ?,O O O O O O O O O B-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is Skytrain ntl stadium on the same line as BTS chongnonsee ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from saldaeng station to BTS saint louiis ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from national staudium BTS to sphant aksin station ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from radchadamri to Skytrain st louis ?,O O O O O O O O B-Ratchadamri O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from saphan taksen BTS to sintl ouis BTS stop ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is chong non si BTS on the same line as mationalstadium BTS stop ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from saoadaeng BTS to siaam BTS ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Siam I-Siam O
+How long does it take to go from saphan taxin BTS stop to siamm BTS stop ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Siam I-Siam I-Siam O
+How long does it take to go from Skytrain surasak to ratchadamli BTS stop ?,O O O O O O O O B-Surasak I-Surasak O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How long does it take to go from st louie BTS to BTS suarasak ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Surasak I-Surasak O
+How long does it take to go from BTS saint luis to BTS fhong nonsi ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from surassak station to Skytrain sailadaeng ?,O O O O O O O O B-Surasak I-Surasak O B-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from ratshadamri BTS to chong nonsie station ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from Skytrain saladang to BTS nat stadium ?,O O O O B-Sala_Daeng I-Sala_Daeng O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from BTS chkngnonsi to BTS st. louis ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from BTS nationar stadium to Skytrain SIAM ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Siam I-Siam O
+How long does it take to go from eurasak to sizm BTS ?,O O O O O O O O B-Surasak O B-Siam I-Siam O
+Is stadium national on the same line as sayam station ?,O B-National_Stadium I-National_Stadium O O O O O B-Siam I-Siam O
+Is syam BTS on the same line as BTS surasuak ?,O B-Siam I-Siam O O O O O B-Surasak I-Surasak O
+How to go from saphan takshin to surassak ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Surasak O
+Where do I need to transfer to go from rathadamri BTS stop to nationarstadium station ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium O
+How long does it take to go from saphan tasin BTS stop to national tadium BTS ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from Skytrain chong nonsy to saint ouis BTS stop ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is saladang on the same line as BTS saintrouis ?,O B-Sala_Daeng O O O O O B-Saint_Louis I-Saint_Louis O
+Is saphan takin BTS stop on the same line as siam BTS stop ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-Siam I-Siam I-Siam O
+How long does it take to go from ratchadaamri station to surassak ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Surasak O
+Where do I need to transfer to go from BTS ratchadamree to saintolouis BTS ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis O
+How to go from saint louiz station to chong nonsii ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from siaum BTS stop to sanam keela ?,O O O O O O O O O B-Siam I-Siam I-Siam O B-National_Stadium I-National_Stadium O
+How to go from saphajtaksin station to rachadamri ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri O
+How long does it take to go from chong nonsie to saintlouis BTS stop ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from saintouis to saphan taksine BTS ?,O O O O O O O O B-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from stadium national BTS to chongnonsii station ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from Skytrain ratchdamri to BTS siam ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Siam I-Siam O
+Where do I need to transfer to go from Skytrain chong nonsie to Skytrain suracak ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Surasak I-Surasak O
+Where do I need to transfer to go from chong nonsi BTS stop to Skytrain swla daeng ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from BTS NATIONAL STADIUM to rachadumri BTS ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+How to go from radchadamri BTS to Skytrain sanam keela ?,O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from BTS st louis to safantaksin BTS ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from saphan takzin station to Skytrain saint lpuis ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from national stadum BTS stop to BTS chongnonsi ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi O
+How to go from Skytrain saphantaksin to Skytrain saint lpuis ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from Skytrain chongnonsi to Skytrain ratjadamri ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from saphan takzin BTS stop to ratchadamree ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri O
+How long does it take to go from saint louiz station to rajadamri BTS ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from BTS surasaak to saintlouis BTS stop ?,O O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from RATCHADAMRI BTS stop to nat stadium BTS ?,O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from national stadiam to BTS ratchadamri ?,O O O O O O O O B-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from Skytrain surask to Skytrain saint louis ?,O O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from NATIONAL STADIUM station to chong nonsie BTS ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from saphan taksine station to rachadumri BTS ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from Skytrain ratchdamri to BTS saint luis ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from BTS sioam to BTS the national stadium ?,O O O O O O O O O B-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from BTS st louis to sapan taksin ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin O
+Is BTS surasak on the same line as saintlouis ?,O B-Surasak I-Surasak O O O O O B-Saint_Louis O
+How long does it take to go from sala dang to Skytrain chong nonsy ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from radchadamri station to sala daeng station ?,O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from SURASAK station to saint luis BTS ?,O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is chonnonsi BTS on the same line as SAINT LOUIS ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from nationarstadium to SIAM station ?,O O O O O O O O O B-National_Stadium O B-Siam I-Siam O
+Where do I need to transfer to go from BTS saint louis to national syadium station ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from BTS chongnonsee to BTS SAPHAN TAKSIN ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is BTS SURASAK on the same line as santlouis ?,O B-Surasak I-Surasak O O O O O B-Saint_Louis O
+Where do I need to transfer to go from Skytrain saint louiz to BTS safant aksin ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from ratchadari station to suraak BTS stop ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak I-Surasak O
+Is rautchadamri station on the same line as syam ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Siam O
+Where do I need to transfer to go from Skytrain siaem to saphantaksin BTS ?,O O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from Skytrain rachadamri to Skytrain st louis ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from BTS suracak to Skytrain ratchdamri ?,O O O O B-Surasak I-Surasak O B-Ratchadamri I-Ratchadamri O
+How to go from BTS sara daeng to saphantaksin station ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from Skytrain radchadamri to Skytrain siam ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Siam I-Siam O
+Where do I need to transfer to go from Skytrain CHONG NONSI to national studiam BTS stop ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from rachadamri BTS to national sport stadium ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from saintlouais BTS to saphan taksine ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin O
+How to go from chongnnsi BTS stop to BTS saphan taksin ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from BTS national studiam to chlng nonsi station ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from sports stadium BTS stop to Skytrain saphan taxin ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from Skytrain surasak to st. louis ?,O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis O
+Is syam BTS stop on the same line as BTS ratchadamuri ?,O B-Siam I-Siam I-Siam O O O O O B-Ratchadamri I-Ratchadamri O
+How to go from eaphantaksin station to Skytrain nationarstadium ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium O
+How to go from BTS ratjadamri to BTS congnonsi ?,O O O O B-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi O
+How to go from Skytrain saint luis to sala deng ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng O
+How to go from BTS the national stadium to BTS salah daeng ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from saint luis BTS to roatchadamri BTS ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri O
+How to go from Skytrain datchadamri to BTS chobgnonsi ?,O O O O B-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi O
+Is Skytrain stadium national on the same line as SALA DAENG BTS ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from BTS shongnonsi to mationalstadium BTS ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium O
+How to go from BTS saladeng to Skytrain SAINT LOUIS ?,O O O O B-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from surasaak BTS to BTS sqintlouis ?,O O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis O
+Is Skytrain ratshadamri on the same line as nationalstadium BTS stop ?,O B-Ratchadamri I-Ratchadamri O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from sara daeng station to skam station ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Siam I-Siam O
+Where do I need to transfer to go from Skytrain suurasak to saka daeng station ?,O O O O O O O O O B-Surasak I-Surasak O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from BTS saint louis to nationapstadium station ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium O
+How to go from Skytrain saphan takzin to jational stadium BTS ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from chong non si to BTS sanam keela ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from BTS chong nonsri to surasaik ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Surasak O
+Is siaom BTS on the same line as national studiam BTS ?,O B-Siam I-Siam O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from BTS saintouis to Skytrain saphan taksim ?,O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from ratchdamri BTS stop to BTS saphan takshin ?,O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is saint luis BTS stop on the same line as SAPHAN TAKSIN ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from BTS sala deng to BTS nautionalstadium ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-National_Stadium I-National_Stadium O
+How to go from ratchadamri BTS to SAPHAN TAKSIN ?,O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from shong nonsi to saphan taxin BTS stop ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is chongnonsee BTS on the same line as saintrouis BTS ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from st. louis BTS stop to stadium bts ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium O
+How to go from SAPHAN TAKSIN BTS stop to saladang station ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from saphan takshin BTS to stadium national BTS stop ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from BTS sala daeng to sapan taksin BTS ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from Skytrain SURASAK to BTS national stadijm ?,O O O O O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from surasak BTS stop to Skytrain sioam ?,O O O O O O O O B-Surasak I-Surasak I-Surasak O B-Siam I-Siam O
+How long does it take to go from suasak station to saphantaksin station ?,O O O O O O O O B-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from BTS SIAM to saphantaksin station ?,O O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from shongnonsi station to saladang BTS ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from saint louiz station to Skytrain rajadamri ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri O
+Is sala dasng on the same line as rajadamri BTS ?,O B-Sala_Daeng I-Sala_Daeng O O O O O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from Skytrain saepha ntaksin to saint luis BTS stop ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from sintl ouis BTS stop to Skytrain CHONG NONSI ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from BTS ratchadumri to national stadiam BTS ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is CHONG NONSI on the same line as sala deng BTS ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from sayam BTS to chong anonsi station ?,O O O O O O O O B-Siam I-Siam O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from Skytrain ratchadumri to Skytrain sala daeng ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from st louie BTS to CHONG NONSI BTS ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from BTS saintlouuis to siaam ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Siam O
+How to go from surassak BTS stop to saphiantaksin BTS ?,O O O O B-Surasak I-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin O
+Is national stacium station on the same line as sauntlouis BTS ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Saint_Louis I-Saint_Louis O
+How to go from chong nnsi BTS to Skytrain salah daeng ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from chong non si BTS to BTS stadium bts ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from sala dange to saphantaksin BTS stop ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is ratchadamri on the same line as national stadiam BTS stop ?,O B-Ratchadamri O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from natinalstadium station to Skytrain st louie ?,O O O O B-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from sanam keela BTS to RATCHADAMRI station ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from saphan taksen BTS stop to nationalstadium BTS stop ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from Skytrain saphan takshin to SALA DAENG ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from sala deng BTS to BTS suraseak ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Surasak I-Surasak O
+How to go from ratchdamri to SIAM ?,O O O O B-Ratchadamri O B-Siam O
+How to go from BTS cuong nonsi to BTS saint ouis ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from national sadium station to saint louis station ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from sala deng to st louis BTS stop ?,O O O O B-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from saint rouis to rachadamri BTS ?,O O O O B-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri O
+How to go from sursak to sioam station ?,O O O O B-Surasak O B-Siam I-Siam O
+How to go from ratchadamree station to national stadum BTS stop ?,O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from BTS national stadium to ratshadamri BTS ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from ratjadamri BTS stop to national sport stadium ?,O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is surasack station on the same line as Skytrain chong nonsii ?,O B-Surasak I-Surasak O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is national stadum BTS stop on the same line as Skytrain surasek ?,O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Surasak I-Surasak O
+Is cjong nonsi BTS on the same line as radchadamri BTS stop ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How to go from national statium to ratchadamree BTS stop ?,O O O O B-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from BTS sports stadium to Skytrain rachadamri ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+How to go from national studiam BTS stop to BTS SALA DAENG ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from sanam keela station to sayam station ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Siam I-Siam O
+How to go from sapan taksin BTS to saint luis BTS stop ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from nationar stadium BTS to sphant aksin BTS stop ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is Skytrain rachadumri on the same line as BTS sulasak ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak O
+Where do I need to transfer to go from BTS SIAM to st. lewis BTS ?,O O O O O O O O O B-Siam I-Siam O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from siyam BTS to ratshadamri BTS stop ?,O O O O O O O O B-Siam I-Siam O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How long does it take to go from ratchadamree BTS stop to Skytrain saurasak ?,O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+Is SAINT LOUIS on the same line as surassak station ?,O B-Saint_Louis I-Saint_Louis O O O O O B-Surasak I-Surasak O
+How to go from NATIONAL STADIUM station to rachadamri BTS stop ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from nationalstadim BTS stop to SURASAK BTS stop ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Surasak I-Surasak I-Surasak O
+How long does it take to go from Skytrain suracak to chong nonusi BTS ?,O O O O O O O O B-Surasak I-Surasak O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is sala dasng station on the same line as Skytrain ratjadamri ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Ratchadamri I-Ratchadamri O
+Is BTS sala daeng on the same line as ratchadari station ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from BTS saphan aksin to saint luis BTS stop ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from ratchdamri station to saphan taksen station ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from Skytrain chongnonsee to sala dange station ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is Skytrain rajadamri on the same line as BTS surask ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak O
+How long does it take to go from BTS st louis to rachadamri station ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri O
+How to go from SALA DAENG station to BTS SURASAK ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Surasak I-Surasak O
+How long does it take to go from Skytrain surask to Skytrain st louie ?,O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from Skytrain national staudium to saphan taksine BTS ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from saphan takin station to BTS SIAM ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Siam I-Siam O
+How to go from saint louis BTS to ratechadamri BTS stop ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+Is ratchdamri BTS stop on the same line as saurasak BTS stop ?,O B-Ratchadamri I-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak I-Surasak O
+How to go from national stadiam station to saphan takshin BTS ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from BTS chong nonsie to saladang BTS stop ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from Skytrain national statium to RATCHADAMRI BTS ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from BTS sainf louis to Skytrain surasek ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Surasak I-Surasak O
+How to go from siuam BTS stop to BTS saphan taxin ?,O O O O B-Siam I-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from chong non si BTS stop to the national stadium BTS ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from national studiam BTS to shongnonsi BTS ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi O
+How to go from nat stadium station to sauntlouis station ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from national stadiam station to saladaeng BTS stop ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from the national stadium BTS stop to salah daeng BTS stop ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from Skytrain ratchadamli to national stadiam BTS stop ?,O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from national studiam station to SAPHAN TAKSIN BTS ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is Skytrain chognonsi on the same line as rajadamri BTS stop ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How long does it take to go from st. louis to chong nonusi ?,O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi O
+How to go from chong non si BTS to surassak BTS ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Surasak I-Surasak O
+How to go from Skytrain chong nonsy to sports stadium ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from Skytrain nationar stadium to siam station ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Siam I-Siam O
+Where do I need to transfer to go from natiaona lstadium to BTS ratchadaomri ?,O O O O O O O O O B-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+How to go from BTS national statium to Skytrain sala dange ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from suaphantaksin to SIAM station ?,O O O O O O O O B-Saphan_Taksin O B-Siam I-Siam O
+How long does it take to go from Skytrain siaem to chong nonsii BTS stop ?,O O O O O O O O B-Siam I-Siam O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from Skytrain CHONG NONSI to stadium bts ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium O
+How long does it take to go from Skytrain saphan taxin to BTS surasack ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+How long does it take to go from surassak to BTS rachadamri ?,O O O O O O O O B-Surasak O B-Ratchadamri I-Ratchadamri O
+Is surassak BTS stop on the same line as SAINT LOUIS station ?,O B-Surasak I-Surasak I-Surasak O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from BTS siyam to sports stadium ?,O O O O O O O O O B-Siam I-Siam O B-National_Stadium I-National_Stadium O
+Is ratchadamree station on the same line as saint rouis station ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from Skytrain national stadum to BTS taksin bridge ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from saphan takzin station to Skytrain st. louis ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is siaum station on the same line as BTS sanam keela ?,O B-Siam I-Siam O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is BTS ntl stadium on the same line as rwtchadamri ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Ratchadamri O
+Is rachadamri BTS stop on the same line as sala dange ?,O B-Ratchadamri I-Ratchadamri I-Ratchadamri O O O O O B-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from surassak station to siam station ?,O O O O O O O O B-Surasak I-Surasak O B-Siam I-Siam O
+How long does it take to go from BTS national stadum to Skytrain sphant aksin ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from Skytrain st louie to BTS surasek ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Surasak I-Surasak O
+Is shong nonsi on the same line as nationalstadium BTS ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from ratchadumri BTS to sara daeng ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng O
+Is sulasak BTS on the same line as BTS radchadamri ?,O B-Surasak I-Surasak O O O O O B-Ratchadamri I-Ratchadamri O
+How to go from chong nonsie BTS to siamm BTS stop ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Siam I-Siam I-Siam O
+Is BTS surwsak on the same line as siyam station ?,O B-Surasak I-Surasak O O O O O B-Siam I-Siam O
+Where do I need to transfer to go from Skytrain SIAM to BTS saphan taksn ?,O O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from sualadaeng BTS to SURASAK station ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Surasak I-Surasak O
+Where do I need to transfer to go from saphan taksen BTS to radchadamri ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri O
+How long does it take to go from sports stadium station to Skytrain suriasak ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Surasak I-Surasak O
+How to go from chong nonsri to BTS ratchadami ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri I-Ratchadamri O
+How to go from sala daeng BTS stop to national stadum ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-National_Stadium I-National_Stadium O
+Is chong nonsi on the same line as ratchdamri BTS ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from surasoak station to sala daeng BTS stop ?,O O O O O O O O B-Surasak I-Surasak O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is saphan takshin on the same line as Skytrain ratchadamree ?,O B-Saphan_Taksin I-Saphan_Taksin O O O O O B-Ratchadamri I-Ratchadamri O
+How to go from Skytrain suasak to st louis BTS ?,O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from BTS ratchadamri to saphantaksin ?,O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin O
+Where do I need to transfer to go from chong nonsri to surasack station ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Surasak I-Surasak O
+How long does it take to go from saloadaeng to sports stadium station ?,O O O O O O O O B-Sala_Daeng O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from Skytrain saladiaeng to saeintlouis BTS stop ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from Skytrain ratchadamli to Skytrain chong nonsie ?,O O O O B-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is SALA DAENG station on the same line as siyam BTS stop ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Siam I-Siam I-Siam O
+How long does it take to go from BTS siak to Skytrain chongnonsi ?,O O O O O O O O B-Siam I-Siam O B-Chong_Nonsi I-Chong_Nonsi O
+Is siaom station on the same line as sapan taksin BTS stop ?,O B-Siam I-Siam O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is national stadium BTS stop on the same line as ratshadamri station ?,O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from Skytrain saintlouis to Skytrain sanam keela ?,O O O O O O O O B-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from BTS siyam to BTS saphan taxin ?,O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from raotchadamri BTS stop to chuon gnonsi ?,O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from chong nonsri to saladaeng BTS stop ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from stadium national BTS stop to soiam ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Siam O
+How long does it take to go from ratchadumri BTS stop to siuam ?,O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Siam O
+Is suracak BTS on the same line as salhan taksin BTS ?,O B-Surasak I-Surasak O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from rachadamri to sala dange station ?,O O O O B-Ratchadamri O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from saladaeng to sapan taksin ?,O O O O B-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin O
+How to go from surwsak station to siam ?,O O O O B-Surasak I-Surasak O B-Siam O
+How long does it take to go from BTS chong nonsy to Skytrain radchadamri ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri I-Ratchadamri O
+How to go from saladaeng BTS to safantaksin BTS ?,O O O O B-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from st louie BTS to surassak BTS stop ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Surasak I-Surasak I-Surasak O
+How long does it take to go from Skytrain santl ouis to safant aksin BTS ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from BTS sursak to saphan taksine BTS ?,O O O O O O O O B-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is st louie station on the same line as saphan taksen BTS stop ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from BTS RATCHADAMRI to Skytrain national sport stadium ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from natinalstadium to st louie BTS ?,O O O O O O O O O B-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from chongnonsee to BTS siamm ?,O O O O O O O O B-Chong_Nonsi O B-Siam I-Siam O
+Is sioam BTS stop on the same line as nationalstadium BTS stop ?,O B-Siam I-Siam I-Siam O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is ratchadamree BTS stop on the same line as SURASAK BTS stop ?,O B-Ratchadamri I-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak I-Surasak O
+How to go from saladaeng BTS stop to ratchadari ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Ratchadamri O
+How long does it take to go from Skytrain saphan taksen to Skytrain sulasak ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+Is suracak BTS on the same line as national stadium station ?,O B-Surasak I-Surasak O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from st. lewis BTS to Skytrain naitionalstadium ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium O
+How long does it take to go from sioam station to Skytrain nationarstadium ?,O O O O O O O O B-Siam I-Siam O B-National_Stadium I-National_Stadium O
+How long does it take to go from BTS saintlouis to surasak BTS stop ?,O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Surasak I-Surasak I-Surasak O
+How to go from Skytrain sjam to BTS saladaeng ?,O O O O B-Siam I-Siam O B-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from BTS chong non si to st luis ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from ratchdamri BTS stop to BTS saint louis ?,O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from Skytrain SAPHAN TAKSIN to national sotadium ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium O
+How long does it take to go from BTS siamm to SAPHAN TAKSIN BTS ?,O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from saphantaksiin BTS to radchadamri ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri O
+Where do I need to transfer to go from SIAM to BTS ratchadamori ?,O O O O O O O O O B-Siam O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from ratchuadamri to stadium bts station ?,O O O O O O O O O B-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is BTS chong nonsie on the same line as ratjadamri ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Ratchadamri O
+How long does it take to go from saphan takshin station to ratcadamri ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri O
+How long does it take to go from chong monsi BTS stop to st louis ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from saphan taksen station to Skytrain sulasak ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+Where do I need to transfer to go from sainlouis BTS to sala daenf ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng O
+How to go from BTS saladang to BTS niationalstadium ?,O O O O B-Sala_Daeng I-Sala_Daeng O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from sulasak BTS stop to BTS the national stadium ?,O O O O O O O O O B-Surasak I-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from Skytrain diam to rachadamri BTS ?,O O O O O O O O B-Siam I-Siam O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from BTS saphan takzin to chngn onsi BTS ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from saladaejg BTS stop to chong nonsi station ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from st louis BTS stop to suraak ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Surasak O
+How long does it take to go from chongnnsi BTS stop to saphantaksin BTS stop ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from sakadaeng BTS stop to sulasak BTS ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Surasak I-Surasak O
+How to go from taksin bridge station to chong non si BTS ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from sapan taksin to chongnonsi ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi O
+How long does it take to go from ratchadamli station to Skytrain chobgnonsi ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from Skytrain saphan taksine to BTS SURASAK ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+Where do I need to transfer to go from SIAM BTS stop to chongnonsi ?,O O O O O O O O O B-Siam I-Siam I-Siam O B-Chong_Nonsi O
+How to go from rathadamri BTS to Skytrain national stadum ?,O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from st luis to saphan taksin station ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from saldaeng BTS to saintliouis BTS ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis O
+Is sports stadium on the same line as SURASAK ?,O B-National_Stadium I-National_Stadium O O O O O B-Surasak O
+Is BTS ratchadamli on the same line as Skytrain suracak ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak O
+Where do I need to transfer to go from saphan taksen BTS stop to ratchadumri BTS stop ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How to go from ratchadamree BTS stop to Skytrain stadium bts ?,O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from suaphantaksin station to BTS wiam ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Siam I-Siam O
+How long does it take to go from rachadumri BTS to saphantaksin BTS ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from saphan takzin BTS to chong nonsri ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi I-Chong_Nonsi O
+Is saint kouis BTS on the same line as chong nonsii ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from rajadamri station to sala deng BTS ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from sala daeg BTS stop to saeintlouis station ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from radchadamri to saintolouis station ?,O O O O O O O O B-Ratchadamri O B-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from rachadumri BTS stop to SIAM station ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Siam I-Siam O
+How long does it take to go from surasaak BTS stop to saint luis ?,O O O O O O O O B-Surasak I-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from chong nonsi BTS stop to saladaeg ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng O
+How long does it take to go from BTS chong non si to saphan taksin BTS ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from saladang station to BTS stadium bts ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from BTS stadium bts to Skytrain suriasak ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Surasak I-Surasak O
+How to go from reatchadamri BTS stop to sulasak BTS ?,O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+Where do I need to transfer to go from rztchadamri BTS to siam BTS ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Siam I-Siam O
+How long does it take to go from Skytrain SAINT LOUIS to shongnonsi BTS stop ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is ratchadamli BTS on the same line as sioam ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Siam O
+Is diam BTS on the same line as BTS radchadamri ?,O B-Siam I-Siam O O O O O B-Ratchadamri I-Ratchadamri O
+How to go from chong nonsii BTS to SIAM station ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Siam I-Siam O
+Is saint lous BTS stop on the same line as BTS rachadumri ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Ratchadamri I-Ratchadamri O
+Is radchadamri BTS stop on the same line as BTS siyam ?,O B-Ratchadamri I-Ratchadamri I-Ratchadamri O O O O O B-Siam I-Siam O
+How long does it take to go from BTS chong nonxi to SAPHAN TAKSIN ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin O
+Is Skytrain surasack on the same line as sala dange BTS stop ?,O B-Surasak I-Surasak O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from Skytrain sara daeng to st. lewis BTS ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from rachadamri BTS stop to Skytrain saint louis ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from siyam BTS stop to ratjadamri BTS ?,O O O O B-Siam I-Siam I-Siam O B-Ratchadamri I-Ratchadamri O
+Is saphnt aksin BTS stop on the same line as BTS nat stadium ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from chongnonsi to RATCHADAMRI station ?,O O O O O O O O O B-Chong_Nonsi O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from BTS sala dange to sapan taksin ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin O
+Is Skytrain sala deng on the same line as sports stadium station ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from saphan tksin BTS to SIAM BTS stop ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Siam I-Siam I-Siam O
+Where do I need to transfer to go from Skytrain chong nonsri to national studiam station ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is Skytrain CHONG NONSI on the same line as sizm BTS stop ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Siam I-Siam I-Siam O
+Where do I need to transfer to go from siaam to national stadium station ?,O O O O O O O O O B-Siam O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from chong non si BTS to ratcahadamri ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri O
+Is ratchadumri BTS on the same line as salsdaeng BTS stop ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from BTS sayam to saphan taksn BTS ?,O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from stadium national station to BTS roatchadamri ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+Is sulasak station on the same line as chong nonsri station ?,O B-Surasak I-Surasak O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from saladiaeng BTS stop to st. louis BTS ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from ntl stadium to rachadamri station ?,O O O O B-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+How to go from BTS st louis to fhong nonsi BTS stop ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from sala dseng to Skytrain saphahtaksin ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from saphan taksine station to surasak station ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+How long does it take to go from BTS ntl stadium to Skytrain saphan taksine ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is saphan takshin BTS stop on the same line as BTS national studiam ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is Skytrain nationalsradium on the same line as SALA DAENG BTS stop ?,O B-National_Stadium I-National_Stadium O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is BTS cjong nonsi on the same line as ratcadamri station ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from congn onsi to Skytrain salah daeng ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from saphan takshin to ratchadamree BTS stop ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from saladang station to Skytrain ratchadumri ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Ratchadamri I-Ratchadamri O
+Is st luis BTS stop on the same line as salah daeng BTS ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from surasek BTS to saka daeng BTS stop ?,O O O O O O O O O B-Surasak I-Surasak O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from surasack BTS to the national stadium BTS stop ?,O O O O O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Is rajadamri station on the same line as Skytrain surasak ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak O
+How to go from ratxhadamri BTS to BTS saphan taxin ?,O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from SAPHAN TAKSIN to chong non si ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from Skytrain ratchadmri to sapan taksin ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from BTS saladaeng to sian BTS stop ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Siam I-Siam I-Siam O
+Where do I need to transfer to go from syam station to saphantaksin BTS ?,O O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin O
+Is radchadamri on the same line as Skytrain saphan taksen ?,O B-Ratchadamri O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is siaam BTS stop on the same line as sala deng BTS stop ?,O B-Siam I-Siam I-Siam O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is Skytrain SALA DAENG on the same line as Skytrain sayam ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Siam I-Siam O
+Where do I need to transfer to go from sports stadium BTS to shongnonsi BTS ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from suracak BTS stop to Skytrain saphantaksin ?,O O O O O O O O O B-Surasak I-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin O
+Is shrasak station on the same line as chong nonusi BTS stop ?,O B-Surasak I-Surasak O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is saint louiz BTS stop on the same line as Skytrain chong nonsii ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from Skytrain RATCHADAMRI to the national stadium ?,O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from rachadamri station to NATIONAL STADIUM ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from BTS sladaeng to wurasak ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Surasak O
+How long does it take to go from saphat aksin BTS to BTS chongnonsee ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from saint luis to national statium station ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is saphantaeksin on the same line as st louie BTS stop ?,O B-Saphan_Taksin O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is suracak BTS on the same line as siam BTS stop ?,O B-Surasak I-Surasak O O O O O B-Siam I-Siam I-Siam O
+Where do I need to transfer to go from Skytrain shongnonsi to sports stadium BTS ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from sizm station to surasuak BTS ?,O O O O O O O O B-Siam I-Siam O B-Surasak I-Surasak O
+How to go from stadium bts BTS to saiam BTS ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Siam I-Siam O
+Where do I need to transfer to go from surawak BTS to st. lewis ?,O O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from saint luis to Skytrain saphantaeksin ?,O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin O
+Is BTS nationlstadium on the same line as saphan itaksin ?,O B-National_Stadium I-National_Stadium O O O O O B-Saphan_Taksin I-Saphan_Taksin O
+Is BTS surasek on the same line as sala daenb BTS stop ?,O B-Surasak I-Surasak O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is siaam on the same line as BTS ratchadwmri ?,O B-Siam O O O O O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from Skytrain suracak to Skytrain nationastadium ?,O O O O O O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium O
+How long does it take to go from ratjadamri BTS to sapan taksin BTS ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from rachadamri station to BTS saladaeng ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng O
+Is sala deng station on the same line as saintrouis BTS ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Saint_Louis I-Saint_Louis O
+How to go from Skytrain rathadamri to Skytrain sioam ?,O O O O B-Ratchadamri I-Ratchadamri O B-Siam I-Siam O
+How to go from BTS saphan takzin to sayam BTS stop ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Siam I-Siam I-Siam O
+Where do I need to transfer to go from Skytrain sism to nationar stadium BTS ?,O O O O O O O O O B-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is BTS sufasak on the same line as BTS sala daeg ?,O B-Surasak I-Surasak O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is radchadamri BTS stop on the same line as siuam station ?,O B-Ratchadamri I-Ratchadamri I-Ratchadamri O O O O O B-Siam I-Siam O
+Where do I need to transfer to go from sports stadium BTS to radchadamri BTS stop ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+Is BTS sapan taksin on the same line as Skytrain wiam ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-Siam I-Siam O
+Is BTS ratchadamri on the same line as Skytrain chong nonsy ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from surasak to saintrouis ?,O O O O O O O O B-Surasak O B-Saint_Louis O
+Is taksin bridge BTS stop on the same line as national statium ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-National_Stadium I-National_Stadium O
+Is Skytrain saphan taxin on the same line as saint luis BTS ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from syam BTS stop to saint rouis BTS stop ?,O O O O O O O O B-Siam I-Siam I-Siam O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is ratchadamori station on the same line as st luis BTS stop ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is Skytrain national statium on the same line as Skytrain siaj ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Siam I-Siam O
+How to go from BTS ratchdamri to saphan takzin BTS ?,O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is chong nonsii station on the same line as st. louis station ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from Skytrain chong nonsri to saphantaksin ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin O
+Is ntl stadium on the same line as Skytrain saradaeng ?,O B-National_Stadium I-National_Stadium O O O O O B-Sala_Daeng I-Sala_Daeng O
+Is shong nonsi on the same line as taksin bridge BTS stop ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from BTS nationlstadium to saphantaksin BTS stop ?,O O O O O O O O O B-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from siam BTS stop to saint louiz ?,O O O O B-Siam I-Siam I-Siam O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from BTS chong ninsi to BTS surassak ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Surasak I-Surasak O
+How long does it take to go from Skytrain sala dange to chong nonsi BTS stop ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from BTS stadium national to Skytrain siamm ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Siam I-Siam O
+Where do I need to transfer to go from saint kouis station to chong non si station ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from Skytrain chong nonsi to BTS mationalstadium ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from BTS surasack to BTS stadium bts ?,O O O O O O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from SALA DAENG station to suraisak BTS stop ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Surasak I-Surasak I-Surasak O
+Where do I need to transfer to go from BTS sala daeg to ntl stadium station ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from Skytrain ratchadamli to sala dange ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from sayam BTS to Skytrain ratchadamuri ?,O O O O O O O O B-Siam I-Siam O B-Ratchadamri I-Ratchadamri O
+How to go from the national stadium station to BTS saradaeng ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from Skytrain surasack to national sport stadium ?,O O O O O O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from rachadamri station to sulasak BTS ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+How to go from surasek BTS to ntl stadium BTS stop ?,O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from chong nonsie BTS to national sport stadium station ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from sports stadium to BTS chongnonsii ?,O O O O B-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi O
+How to go from saint louiz to BTS suraak ?,O O O O B-Saint_Louis I-Saint_Louis O B-Surasak I-Surasak O
+How long does it take to go from radchadamri station to saint luis BTS ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is SIAM on the same line as saphan takzin station ?,O B-Siam O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is BTS saint louiz on the same line as BTS sports stadium ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from saphan taksin to ratchadamrii BTS ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri I-Ratchadamri O
+Is BTS st louis on the same line as SALA DAENG station ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is saphantaksin BTS on the same line as st. louis ?,O B-Saphan_Taksin I-Saphan_Taksin O O O O O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from surasek BTS to sala dange BTS ?,O O O O O O O O B-Surasak I-Surasak O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from NATIONAL STADIUM station to BTS chongnonsee ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from chong non si BTS stop to st louie BTS ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from SIAM BTS stop to SAINT LOUIS ?,O O O O B-Siam I-Siam I-Siam O B-Saint_Louis I-Saint_Louis O
+Is Skytrain taksin bridge on the same line as Skytrain national sotadium ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from ratshadamri BTS stop to nationarstadium ?,O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-National_Stadium O
+Is BTS SAINT LOUIS on the same line as chong nonsy ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Chong_Nonsi I-Chong_Nonsi O
+Is SURASAK on the same line as Skytrain saphan taxin ?,O B-Surasak O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from salah daeng BTS to shongnonsi BTS ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi O
+Is surassak BTS stop on the same line as saphan tksin BTS ?,O B-Surasak I-Surasak I-Surasak O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is Skytrain syam on the same line as sala daenag BTS ?,O B-Siam I-Siam O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from ratchadumri BTS stop to syam station ?,O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Siam I-Siam O
+How long does it take to go from Skytrain sala daeng to BTS SAINT LOUIS ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from ratchadumri BTS stop to national statium station ?,O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from saoladaeng BTS to Skytrain saphahtaksin ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin O
+How to go from Skytrain st. louis to saphantaeksin BTS ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin O
+Can I reach BTS ratchadamli from Chulalongkorn University ?,O O O B-Ratchadamri I-Ratchadamri O O O O
+How to go from nationalsradium station to Skytrain salah daeng ?,O O O O B-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from Skytrain sports stadium to siam ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Siam O
+Where do I need to transfer to go from surasak BTS stop to SIAM BTS ?,O O O O O O O O O B-Surasak I-Surasak I-Surasak O B-Siam I-Siam O
+How to go from Skytrain chongmonsi to SURASAK BTS stop ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Surasak I-Surasak I-Surasak O
+Where do I need to transfer to go from SURASAK to sala daeg BTS ?,O O O O O O O O O B-Surasak O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from Skytrain stadium bts to ratchadamli BTS stop ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+Is RATCHADAMRI station on the same line as BTS nationar stadium ?,O B-Ratchadamri I-Ratchadamri O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from BTS sapan taksin to siaom BTS stop ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Siam I-Siam I-Siam O
+Where do I need to transfer to go from BTS eaphantaksin to nationalsotadium BTS stop ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from BTS chongnonsee to nat stadium station ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from Skytrain national sadium to Skytrain st. louis ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is ratchadumri BTS stop on the same line as chong nonsy BTS ?,O B-Ratchadamri I-Ratchadamri I-Ratchadamri O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is sayam station on the same line as ratchdamri ?,O B-Siam I-Siam O O O O O B-Ratchadamri O
+How long does it take to go from surasek BTS stop to saphanaksin station ?,O O O O O O O O B-Surasak I-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin O
+How to go from BTS ratcadamri to national stadum station ?,O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from sapan taksin station to saladaeng ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Sala_Daeng O
+How to go from BTS SAPHAN TAKSIN to stadium bts BTS ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from saladang BTS to Skytrain taksin bridge ?,O O O O B-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is Skytrain sara daeng on the same line as Skytrain ratshadamri ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Ratchadamri I-Ratchadamri O
+How to go from sports stadium station to BTS saitlouis ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis O
+Is saphan takin on the same line as siam station ?,O B-Saphan_Taksin I-Saphan_Taksin O O O O O B-Siam I-Siam O
+How long does it take to go from ratchadamree BTS to BTS safantaksin ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin O
+Is BTS chong nonsri on the same line as BTS sala daeng ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from RATCHADAMRI BTS to suam ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Siam O
+Where do I need to transfer to go from st. lewis to saradaeng BTS ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from sayam station to Skytrain national tadium ?,O O O O O O O O O B-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from rajadamri BTS to national stadiam ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium O
+Is surassak BTS stop on the same line as santlouis station ?,O B-Surasak I-Surasak I-Surasak O O O O O B-Saint_Louis I-Saint_Louis O
+Is BTS RATCHADAMRI on the same line as saladaeng station ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from sala daeng station to BTS chogn onsi ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from ratchadaamri station to saintolouis BTS ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis O
+Is Skytrain natiaona lstadium on the same line as rachadumri BTS stop ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How long does it take to go from BTS chong nonsy to nationalstadium BTS stop ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is national statium on the same line as BTS surasak ?,O B-National_Stadium I-National_Stadium O O O O O B-Surasak I-Surasak O
+How long does it take to go from suracak BTS to national statium BTS ?,O O O O O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from ratchadumri BTS to Skytrain surasack ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+Is siurasak on the same line as Skytrain chongnomsi ?,O B-Surasak O O O O O B-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from BTS SURASAK to BTS saphan takshin ?,O O O O O O O O B-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is sursak BTS stop on the same line as national stadiam BTS ?,O B-Surasak I-Surasak I-Surasak O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from radchadamri BTS stop to Skytrain siaam ?,O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Siam I-Siam O
+Where do I need to transfer to go from Skytrain sala daeng to Skytrain SAINT LOUIS ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from sanam keela BTS stop to SAPHAN TAKSIN station ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from taksin bridge station to BTS NATIONAL STADIUM ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from sala doaeng station to BTS ratchadsmri ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Ratchadamri I-Ratchadamri O
+How to go from siaam BTS to ratshadamri BTS stop ?,O O O O B-Siam I-Siam O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How to go from siak station to chong nonsii BTS stop ?,O O O O B-Siam I-Siam O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from chongnonsi station to rachadumri station ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri I-Ratchadamri O
+Is sara daeng BTS on the same line as ratchadari BTS stop ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+Is Skytrain RATCHADAMRI on the same line as BTS surassak ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak O
+Where do I need to transfer to go from nat stadium station to salah daeng BTS stop ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from BTS ratchadamli to saurasak station ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+Where do I need to transfer to go from sala dang to chongnonsi ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi O
+How to go from Skytrain saladaeng to BTS saphan taxin ?,O O O O B-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from surask BTS stop to Skytrain saint luis ?,O O O O B-Surasak I-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from siamm station to Skytrain suracak ?,O O O O B-Siam I-Siam O B-Surasak I-Surasak O
+How long does it take to go from Skytrain chong nonsii to syam station ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Siam I-Siam O
+Where do I need to transfer to go from ratchadaumri BTS to saladaeng ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng O
+How long does it take to go from Skytrain nationalstadium to sala dange BTS stop ?,O O O O O O O O B-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from national studiam station to saint louiz station ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+What is the location of chongnonsee ?,O O O O O B-Chong_Nonsi O
+Where do I need to transfer to go from ratchdamri BTS to Skytrain sara daeng ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is chongnonsi station on the same line as rachadamri ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Ratchadamri O
+Is saladang BTS stop on the same line as stadium national ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from BTS stadium bts to saradaeng station ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from saphan takshin BTS to ratchadamti station ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from surawak BTS to st luis BTS ?,O O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from siam station to suraasak station ?,O O O O B-Siam I-Siam O B-Surasak I-Surasak O
+Where do I need to transfer to go from BTS siam to Skytrain ratchadari ?,O O O O O O O O O B-Siam I-Siam O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from national tadium BTS stop to chong nonsi BTS stop ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from BTS national stadijm to Skytrain syam ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Siam I-Siam O
+Where do I need to transfer to go from BTS ratchdamri to national stadiam station ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from saint louiz to BTS nat stadium ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is BTS st. louis on the same line as BTS ratjadamri ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Ratchadamri I-Ratchadamri O
+How to go from siaam BTS stop to BTS santlouis ?,O O O O B-Siam I-Siam I-Siam O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from st louis to Skytrain rajadamri ?,O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from saint rouis BTS stop to BTS saphantaeksin ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from surasaak BTS to ratchadamree ?,O O O O O O O O B-Surasak I-Surasak O B-Ratchadamri O
+Is saphnt aksin BTS stop on the same line as sports stadium BTS ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from NATIONAL STADIUM BTS to BTS st. lewis ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is santlouis station on the same line as national stadiam BTS stop ?,O B-Saint_Louis I-Saint_Louis O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Is RATCHADAMRI BTS on the same line as saurasak station ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak O
+How long does it take to go from st luis BTS to SAPHAN TAKSIN ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin O
+Is national stadum BTS stop on the same line as Skytrain rachadamri ?,O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from BTS ratjadamri to stadium bts BTS stop ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from Skytrain SURASAK to rajadamri station ?,O O O O B-Surasak I-Surasak O B-Ratchadamri I-Ratchadamri O
+Is national sport stadium BTS on the same line as BTS SAPHAN TAKSIN ?,O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from cihongnonsi station to ratcadamri ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri O
+How to go from rachadamri BTS to BTS stadium national ?,O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from eaphantaksin BTS stop to national stadiam BTS stop ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Is saphan takzin BTS stop on the same line as national studiam BTS stop ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from suaphantaksin BTS stop to siam BTS ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Siam I-Siam O
+Is radchadamri BTS on the same line as suradak ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Surasak O
+Is CHONG NONSI station on the same line as nat stadium station ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from ratchdamri to nationalstadium BTS ?,O O O O O O O O B-Ratchadamri O B-National_Stadium I-National_Stadium O
+How to go from suracak BTS to the national stadium station ?,O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from sports stadium BTS stop to surasak BTS ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Surasak I-Surasak O
+How long does it take to go from BTS national studiam to ratchadamri station ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from st luis station to siyam BTS stop ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Siam I-Siam I-Siam O
+Where do I need to transfer to go from chong nonsie BTS stop to saiam BTS stop ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Siam I-Siam I-Siam O
+How long does it take to go from national sadium BTS to Skytrain st louis ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from ratchadamari BTS stop to Skytrain SURASAK ?,O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+How to go from saintlouis BTS stop to syam BTS stop ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Siam I-Siam I-Siam O
+Where do I need to transfer to go from Skytrain sala daeng to eiam BTS stop ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Siam I-Siam I-Siam O
+How to go from BTS srasak to Skytrain national studiam ?,O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from nationalsradium BTS to salz daeng station ?,O O O O O O O O O B-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is surasack on the same line as national stadum BTS ?,O B-Surasak O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is chongnonsei BTS on the same line as BTS surqsak ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Surasak I-Surasak O
+How long does it take to go from ratchadamli BTS stop to st. lewis BTS stop ?,O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is SAINT LOUIS on the same line as BTS national sport stadium ?,O B-Saint_Louis I-Saint_Louis O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from SAPHAN TAKSIN to jational stadium ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium O
+How long does it take to go from Skytrain st. louis to Skytrain SURASAK ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Surasak I-Surasak O
+How long does it take to go from Skytrain sapan taksin to saontlouis BTS stop ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from Skytrain saphan takin to suam ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Siam O
+Where do I need to transfer to go from shong nonsi station to saphan taxin BTS ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from ratchadamri station to sports stadium BTS stop ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Is nationlstadium BTS stop on the same line as saphantaksin ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Saphan_Taksin O
+Is Skytrain st louis on the same line as Skytrain saphantaksin ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from ching nonsi BTS stop to national sport stadium BTS ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from chong nonsii BTS to saphan takshin BTS stop ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from Skytrain siuam to Skytrain ratchadamli ?,O O O O O O O O B-Siam I-Siam O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from Skytrain st. louis to Skytrain suracak ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Surasak I-Surasak O
+How to go from sulasak to st. louis ?,O O O O B-Surasak O B-Saint_Louis I-Saint_Louis O
+How to go from BTS the national stadium to saladang ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng O
+How long does it take to go from Skytrain sara daeng to BTS radchadamri ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Ratchadamri I-Ratchadamri O
+How to go from chong nonsii to surassak BTS ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Surasak I-Surasak O
+How long does it take to go from siam station to RATCHADAMRI BTS stop ?,O O O O O O O O B-Siam I-Siam O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How long does it take to go from national stadum station to taksin bridge BTS stop ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is SIAM BTS stop on the same line as BTS st luis ?,O B-Siam I-Siam I-Siam O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from the national stadium to ratshadamri station ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from RATCHADAMRI BTS to chong nuonsi BTS stop ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from Skytrain stadium national to chojg nonsi station ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is chongnonsee on the same line as st. lewis BTS ?,O B-Chong_Nonsi O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is saintlouis BTS stop on the same line as nationalstadium station ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-National_Stadium I-National_Stadium O
+How to go from Skytrain SAPHAN TAKSIN to chong nonsy station ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from ratchadamree BTS to BTS safantaksin ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin O
+How to go from BTS sala dang to Skytrain CHONG NONSI ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is BTS sjam on the same line as BTS saintlouis ?,O B-Siam I-Siam O O O O O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from BTS st. louis to safantaksin ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Saphan_Taksin O
+Is shongnonsi BTS stop on the same line as BTS stadium national ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from BTS saphantaksin to stadium bts ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium O
+How long does it take to go from santlouis BTS stop to national stdium ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium O
+How to go from saint louiis station to chongnonsee station ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi O
+How to go from SIAM BTS stop to BTS saphan takzin ?,O O O O B-Siam I-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from BTS SURASAK to BTS sapan taksin ?,O O O O B-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from BTS saladaaeng to chong nonsii BTS ?,O O O O B-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from saphan aksin station to sintl ouis BTS ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from chong nonsie BTS stop to saint rouis ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis O
+Is saint luis BTS stop on the same line as ratshadamri BTS ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from rajadamri station to saint rouis ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from saint louiz BTS to naitionalstadium BTS stop ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is stadium national BTS stop on the same line as saphan taksin ?,O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Saphan_Taksin I-Saphan_Taksin O
+Is st. lewis station on the same line as saphan taksin BTS ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from Skytrain surawak to saint luis BTS ?,O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is sala deng station on the same line as saphan takshin ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from BTS national studiam to BTS suerasak ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Surasak I-Surasak O
+Is Skytrain nqtional stadium on the same line as siaam station ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Siam I-Siam O
+Where do I need to transfer to go from ntl stadium BTS stop to saladang BTS stop ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from sioam station to BTS ratchadamli ?,O O O O B-Siam I-Siam O B-Ratchadamri I-Ratchadamri O
+How to go from Skytrain sainu tlouis to saradaeng station ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng O
+Is CHONG NONSI BTS on the same line as st. lewis BTS stop ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from shrasak to Skytrain chongnonsee ?,O O O O B-Surasak O B-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from saintloyis BTS stop to Skytrain surasack ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Surasak I-Surasak O
+Where do I need to transfer to go from BTS safantaksin to surasaak station ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+How to go from chong non si BTS to saphantaksiun ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin O
+How to go from chong nonsri station to BTS stadium national ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is Skytrain st louis on the same line as Skytrain siqm ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Siam I-Siam O
+Where do I need to transfer to go from Skytrain chlng nonsi to Skytrain national sport stadium ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from siam BTS to BTS st. louis ?,O O O O O O O O B-Siam I-Siam O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from ratjadamri to chong nonsii BTS stop ?,O O O O O O O O O B-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from saphaentaksin BTS to BTS sulasak ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+How long does it take to go from Skytrain saphantakin to Skytrain national studiam ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from BTS st louis to BTS shongnonsi ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi O
+Is saint luis on the same line as nationarstadium station ?,O B-Saint_Louis I-Saint_Louis O O O O O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from nztionalstadium BTS to st. lewis station ?,O O O O O O O O O B-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from sanam keela BTS to BTS SURASAK ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Surasak I-Surasak O
+How to go from ratchadamree station to sara daeng BTS stop ?,O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from stadium bts BTS to rwtchadamri BTS stop ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How to go from chong nonsii station to surasaik BTS ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Surasak I-Surasak O
+How long does it take to go from ratchadamli station to SAPHAN TAKSIN station ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from chong non si to suracak station ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Surasak I-Surasak O
+How to go from Skytrain saphan takzin to nationalsotadium ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium O
+Is st. louis on the same line as ratchadumri station ?,O B-Saint_Louis I-Saint_Louis O O O O O B-Ratchadamri I-Ratchadamri O
+Is BTS CHONG NONSI on the same line as ratchadamli BTS stop ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How long does it take to go from BTS saladeng to st luis station ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from aiam station to saint luis station ?,O O O O O O O O O B-Siam I-Siam O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from BTS siamm to Skytrain sapan taksin ?,O O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from BTS the national stadium to chong non si station ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from Skytrain suracak to saphan tasin BTS stop ?,O O O O O O O O B-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from st louie station to sizm ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Siam O
+How to go from SAINT LOUIS BTS stop to siyam station ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Siam I-Siam O
+Where do I need to transfer to go from Skytrain SURASAK to sala daeg ?,O O O O O O O O O B-Surasak I-Surasak O B-Sala_Daeng I-Sala_Daeng O
+How to go from BTS sioam to Skytrain rachadamri ?,O O O O B-Siam I-Siam O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from salah daeng station to Skytrain rachadamri ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Ratchadamri I-Ratchadamri O
+Is st louis station on the same line as siqm BTS ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Siam I-Siam O
+How long does it take to go from SIAM BTS stop to SURASAK ?,O O O O O O O O B-Siam I-Siam I-Siam O B-Surasak O
+Is saint luis BTS stop on the same line as Skytrain rachadumri ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Ratchadamri I-Ratchadamri O
+Is saintlouis BTS stop on the same line as BTS surasak ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Surasak I-Surasak O
+Where do I need to transfer to go from Skytrain saphantaksin to Skytrain nationalsotadium ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium O
+How long does it take to go from radchadamri BTS stop to chong nuonsi BTS ?,O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from BTS saphan taksine to Skytrain sursak ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+How to go from BTS taksin bridge to saladaeng station ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Sala_Daeng I-Sala_Daeng O
+Is suiam on the same line as ratchadamree BTS ?,O B-Siam O O O O O B-Ratchadamri I-Ratchadamri O
+How to go from BTS sala daeng to Skytrain niationalstadium ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from BTS ratshadamri to SURASAK ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Surasak O
+Is radchadamri station on the same line as surasack BTS ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak O
+Is sakadaeng BTS stop on the same line as surassak BTS stop ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Surasak I-Surasak I-Surasak O
+Is Skytrain national stadiam on the same line as chong nonsi BTS ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from ratchadamari to surassak BTS stop ?,O O O O O O O O O B-Ratchadamri O B-Surasak I-Surasak I-Surasak O
+Where do I need to transfer to go from saint rouis station to BTS ratjadamri ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from sanam keela station to chong nonsii ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi O
+How to go from sala dange BTS to chongnonsi BTS ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi O
+Is chongnonsi BTS on the same line as siyam ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Siam O
+How to go from saphan taxin BTS stop to Skytrain surausak ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+Is saphan taksine station on the same line as Skytrain siiam ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-Siam I-Siam O
+How to go from national statium BTS stop to saphan taksine station ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from national studiam BTS to Skytrain chong nonsi ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from saphan taxin to Skytrain sala dange ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from nat stadium to Skytrain salz daeng ?,O O O O B-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from chong nonsri to salah daeng station ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is st luis on the same line as saphantaksin BTS stop ?,O B-Saint_Louis I-Saint_Louis O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from BTS rachadamri to BTS ntl stadium ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from BTS saintlouiis to the national stadium ?,O O O O B-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from Skytrain saphantasin to Skytrain rachadumri ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri I-Ratchadamri O
+Is saladang BTS stop on the same line as sports stadium BTS stop ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from chong nonsi BTS stop to BTS ratchadamree ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri I-Ratchadamri O
+Is sanam keela BTS stop on the same line as SALA DAENG BTS stop ?,O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from st louie BTS stop to chong nonsii BTS stop ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from Skytrain stadium bts to ratchdamri station ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+Is ratchadaamri BTS stop on the same line as BTS sulasak ?,O B-Ratchadamri I-Ratchadamri I-Ratchadamri O O O O O B-Surasak I-Surasak O
+How long does it take to go from shong nonsi BTS to siyam ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Siam O
+How to go from chongnonsi to Skytrain nationap stadium ?,O O O O B-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is BTS saeintlouis on the same line as fhong nonsi ?,O B-Saint_Louis I-Saint_Louis O O O O O B-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from surasek station to syam station ?,O O O O O O O O B-Surasak I-Surasak O B-Siam I-Siam O
+How long does it take to go from BTS saladaeng to syam BTS stop ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Siam I-Siam I-Siam O
+How long does it take to go from saladaeng to saeintlouis BTS stop ?,O O O O O O O O B-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from Skytrain ratchadari to surask BTS ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+How long does it take to go from Skytrain shong nonsi to Skytrain nationalsatadium ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium O
+Is BTS national studiam on the same line as ratchadaomri ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Ratchadamri O
+Where do I need to transfer to go from sala deng to saphan takzin BTS ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is BTS st. louis on the same line as Skytrain ratchadamree ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from BTS sism to national stadum station ?,O O O O O O O O O B-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from Skytrain suasak to SAINT LOUIS station ?,O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from rautchadamri to siam station ?,O O O O O O O O B-Ratchadamri O B-Siam I-Siam O
+Where do I need to transfer to go from siaam BTS stop to BTS nationarstadium ?,O O O O O O O O O B-Siam I-Siam I-Siam O B-National_Stadium I-National_Stadium O
+How long does it take to go from national stadiuj to Skytrain surasack ?,O O O O O O O O B-National_Stadium I-National_Stadium O B-Surasak I-Surasak O
+Is BTS sala daenag on the same line as BTS chong nonsii ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from saphan tsksin station to BTS sala dange ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is Skytrain rachadumri on the same line as BTS ntl stadium ?,O B-Ratchadamri I-Ratchadamri O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from saint kouis BTS to chong nonsii BTS ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from Skytrain nat stadium to BTS saintlouis ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from saladaeng to ntl stadium ?,O O O O O O O O B-Sala_Daeng O B-National_Stadium I-National_Stadium O
+How long does it take to go from sala daeng BTS stop to BTS chong nonsie ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from rachadumri BTS to Skytrain chong non si ?,O O O O B-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from chong nonsri station to Skytrain ratchdamri ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri I-Ratchadamri O
+How to go from nationarstadium station to siaj BTS stop ?,O O O O B-National_Stadium I-National_Stadium O B-Siam I-Siam I-Siam O
+Is Skytrain rachadumri on the same line as st louie BTS ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is sala daeng station on the same line as BTS sism ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Siam I-Siam O
+How to go from surasoak to sala daeng station ?,O O O O B-Surasak O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from ratjadamri BTS to BTS saintluis ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis O
+Is rathadamri BTS on the same line as BTS siuam ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Siam I-Siam O
+How long does it take to go from st luis BTS to sala daeng BTS ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from BTS saint louis to Skytrain saradaeng ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from Skytrain ntl stadium to saint louiz station ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from radchadamri BTS stop to Skytrain st louie ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from the national stadium to BTS rachadamri ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from BTS ratchadamli to BTS chobgnonsi ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi O
+Is siaam on the same line as Skytrain stadium national ?,O B-Siam O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from surasek BTS stop to Skytrain siyam ?,O O O O O O O O O B-Surasak I-Surasak I-Surasak O B-Siam I-Siam O
+Is chong nomsi on the same line as suraasak BTS stop ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Surasak I-Surasak I-Surasak O
+How to go from sulasak station to salah daeng ?,O O O O B-Surasak I-Surasak O B-Sala_Daeng I-Sala_Daeng O
+Is ntl stadium BTS on the same line as ratchadamri BTS stop ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How long does it take to go from Skytrain surassak to national studiam BTS stop ?,O O O O O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from Skytrain SURASAK to BTS saint louiz ?,O O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is saint lois station on the same line as skam BTS stop ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Siam I-Siam I-Siam O
+Is BTS rajadamri on the same line as suam BTS ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Siam I-Siam O
+Where do I need to transfer to go from saintloyis to BTS surasek ?,O O O O O O O O O B-Saint_Louis O B-Surasak I-Surasak O
+How to go from BTS chonnonsi to saint rouis BTS ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is Skytrain suam close to the city center ?,O B-Siam I-Siam O O O O O O
+How to go from saphan taksine BTS to jational stadium ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium O
+How to go from saphan taxin to siaam BTS ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Siam I-Siam O
+Where do I need to transfer to go from saoadaeng station to syam BTS stop ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Siam I-Siam I-Siam O
+Is BTS ratchadamli on the same line as BTS safantaksin ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from saint louis BTS to BTS sala dange ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from Skytrain ratchadamree to suraak BTS ?,O O O O B-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+How long does it take to go from siam BTS stop to ratchadamli ?,O O O O O O O O B-Siam I-Siam I-Siam O B-Ratchadamri O
+Where do I need to transfer to go from Skytrain radchadamri to stadium bts BTS ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from saint loujs to siiam BTS stop ?,O O O O B-Saint_Louis I-Saint_Louis O B-Siam I-Siam I-Siam O
+How long does it take to go from saint luis BTS to ratchadamri BTS ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from sioam station to Skytrain nationar stadium ?,O O O O O O O O O B-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from Skytrain natiuona lstadium to sayam ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Siam O
+Is Skytrain sainitlouis on the same line as sara daeng station ?,O B-Saint_Louis I-Saint_Louis O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from national stdium BTS to saint luis BTS ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is Skytrain rachadamri on the same line as BTS siam ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Siam I-Siam O
+Where do I need to transfer to go from saphan taksen to Skytrain chongnonsee ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from Skytrain sursak to saphan takzin station ?,O O O O O O O O O B-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from ratchdamri BTS to nationar stadium station ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from taksin bridge to BTS saontlouis ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis O
+How to go from Skytrain siaem to CHONG NONSI station ?,O O O O B-Siam I-Siam O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from surassak to Skytrain saphan taksen ?,O O O O B-Surasak O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from BTS siamm to ratshadamri ?,O O O O B-Siam I-Siam O B-Ratchadamri O
+Is shongnonsi BTS stop on the same line as ntl stadium station ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from BTS ratchadari to suradak BTS ?,O O O O B-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+Where do I need to transfer to go from st luis BTS stop to nat stadium station ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from saphan taxin BTS stop to suracak BTS stop ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak I-Surasak O
+Is BTS ratxhadamri on the same line as sapan taksin station ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from ratchuadamri BTS to safantaksin BTS stop ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from BTS st louis to sala deng ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng O
+Is Skytrain chong non si on the same line as BTS mationalstadium ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from sursak BTS stop to rachadumri BTS ?,O O O O O O O O O B-Surasak I-Surasak I-Surasak O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from syam to sual adaeng station ?,O O O O O O O O O B-Siam O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from national stadum to sioam BTS stop ?,O O O O O O O O B-National_Stadium I-National_Stadium O B-Siam I-Siam I-Siam O
+How long does it take to go from BTS saphantaksin to ratechadamri BTS ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from national studiam BTS to suerasak BTS ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Surasak I-Surasak O
+How long does it take to go from BTS the national stadium to Skytrain saint louis ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is national sadium BTS on the same line as saint luis station ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from saphan taksen to Skytrain ratchadumri ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri I-Ratchadamri O
+Is Skytrain sualadaeng on the same line as suraisak BTS stop ?,O B-Sala_Daeng I-Sala_Daeng O O O O O B-Surasak I-Surasak I-Surasak O
+How to go from rajadamri station to surasak station ?,O O O O B-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+How to go from suracak BTS to chong nonusi station ?,O O O O B-Surasak I-Surasak O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from Skytrain saintlouuis to suiam ?,O O O O B-Saint_Louis I-Saint_Louis O B-Siam O
+Where do I need to transfer to go from ratjadamri BTS stop to saphan takshin ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Saphan_Taksin I-Saphan_Taksin O
+How to go from BTS CHONG NONSI to BTS saphantaksiun ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from Skytrain st. lewis to BTS saphan takzin ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from national stadiam to BTS surasaek ?,O O O O B-National_Stadium I-National_Stadium O B-Surasak I-Surasak O
+How to go from rachadumri to saintolouis station ?,O O O O B-Ratchadamri O B-Saint_Louis I-Saint_Louis O
+Is national stadum BTS on the same line as BTS taksin bridge ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is nationar stadium BTS on the same line as saphan taxin BTS ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from chlng nonsi BTS to ntl stadium station ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from ratchadamree BTS to nationar stadium BTS stop ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from sala dange BTS to rajadamri BTS stop ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+Is BTS ratchadamree on the same line as sara daeng BTS ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from Skytrain saphan taxin to siyam BTS ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Siam I-Siam O
+How to go from BTS siaam to sureasak BTS ?,O O O O B-Siam I-Siam O B-Surasak I-Surasak O
+Is naionalstadium station on the same line as saphan takshin BTS stop ?,O B-National_Stadium I-National_Stadium O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from shong nonsi BTS to Skytrain syam ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Siam I-Siam O
+How long does it take to go from chongnonsi BTS stop to sala deng station ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from saimtlouis BTS stop to surasack BTS stop ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Surasak I-Surasak I-Surasak O
+Where do I need to transfer to go from Skytrain saphan takzin to shong nonsi ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi I-Chong_Nonsi O
+How to go from saphan takshin to BTS sursak ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+Is syam station on the same line as NATIONAL STADIUM station ?,O B-Siam I-Siam O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is chong nonxi on the same line as saphan takzin station ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from ratcadamri to stadium national ?,O O O O O O O O O B-Ratchadamri O B-National_Stadium I-National_Stadium O
+Is saint luis BTS stop on the same line as BTS suarasak ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Surasak I-Surasak O
+Is saint luis BTS stop on the same line as BTS saphantaksin ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Saphan_Taksin I-Saphan_Taksin O
+Is ntl stadium on the same line as st. louis BTS ?,O B-National_Stadium I-National_Stadium O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from st. lewis to siqm BTS ?,O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Siam I-Siam O
+Is BTS saint louiis on the same line as chong non si station ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is BTS nat stadium on the same line as suerasak station ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Surasak I-Surasak O
+Is saint luis BTS stop on the same line as NATIONAL STADIUM station ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from saloadaeng BTS stop to Skytrain sports stadium ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is sala daeg on the same line as nationae lstadium ?,O B-Sala_Daeng I-Sala_Daeng O O O O O B-National_Stadium I-National_Stadium O
+Is Skytrain stadium national on the same line as ratchadamli ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Ratchadamri O
+Where do I need to transfer to go from NATIONAL STADIUM BTS stop to siyam BTS stop ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Siam I-Siam I-Siam O
+How long does it take to go from nat stadium to chongnonsii station ?,O O O O O O O O B-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi O
+How to go from Skytrain siamm to Skytrain st louie ?,O O O O B-Siam I-Siam O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from rachadumri station to salsdaeng BTS ?,O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng O
+Is chong nonsri on the same line as nationalsatadium BTS stop ?,O B-Chong_Nonsi I-Chong_Nonsi O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is st. lewis BTS on the same line as national sport stadium ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from RATCHADAMRI BTS to chong nonsri station ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from Skytrain siiam to Skytrain sala daenag ?,O O O O O O O O O B-Siam I-Siam O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from chong nonsri station to saint ouis BTS ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from the national stadium station to BTS sphant aksin ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from Skytrain saitl ouis to Skytrain nationalstadium ?,O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium O
+Is rathadamri on the same line as BTS siamm ?,O B-Ratchadamri O O O O O B-Siam I-Siam O
+Is syam BTS on the same line as st louis ?,O B-Siam I-Siam O O O O O B-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from sapan taksin station to BTS saintrouis ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from CHONG NONSI station to sapadaeng station ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from siaom BTS stop to national studiam station ?,O O O O O O O O O B-Siam I-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is chongnonsui BTS stop on the same line as Skytrain sala deng ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from surasack station to SAINT LOUIS BTS stop ?,O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is rachadumri station on the same line as saint luis BTS ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is Skytrain st louis on the same line as rachadamri BTS ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Ratchadamri I-Ratchadamri O
+How to go from siamm to Skytrain saphan taxin ?,O O O O B-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from BTS national stadium to ratchadaomri ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri O
+Is sanam keela BTS stop on the same line as BTS chong nonsy ?,O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from ntl stadium station to BTS salz daeng ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from siamm BTS to BTS saphan taksih ?,O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from BTS RATCHADAMRI to Skytrain sala deng ?,O O O O B-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from saldaeng to siaam BTS ?,O O O O O O O O B-Sala_Daeng O B-Siam I-Siam O
+How to go from Skytrain sara daeng to saphan taxin BTS ?,O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from saint louis station to NATIONAL STADIUM ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from surasek BTS to Skytrain st. lewis ?,O O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is Skytrain ratchadamei on the same line as Skytrain salah daeng ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is surasak BTS on the same line as BTS SALA DAENG ?,O B-Surasak I-Surasak O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from BTS SAINT LOUIS to national stadiam station ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from chong non si station to soam BTS ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Siam I-Siam O
+How to go from SAPHAN TAKSIN to chong non si BTS ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from BTS sala daeng to Skytrain ratchadamri ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from suraak to saladaeng BTS ?,O O O O O O O O B-Surasak O B-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from ratshadamri to sports stadium BTS ?,O O O O O O O O B-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+How to go from st luis BTS stop to Skytrain NATIONAL STADIUM ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from surasack to NATIONAL STADIUM station ?,O O O O O O O O O B-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from siaom BTS to safant aksin station ?,O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from BTS shongnonsi to BTS sala dange ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from BTS saldaeng to siaam BTS ?,O O O O B-Sala_Daeng I-Sala_Daeng O B-Siam I-Siam O
+How long does it take to go from BTS saldaeng to saint louiis BTS ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from Skytrain saphan etaksin to chong nonsii BTS stop ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from Skytrain saint louiz to BTS siam ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Siam I-Siam O
+How long does it take to go from chongnonsi BTS to Skytrain saphan takzin ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How to go from nat stadium to ratchadamree BTS ?,O O O O B-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from national sport stadium station to Skytrain suriasak ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Surasak I-Surasak O
+How long does it take to go from chongnonsee BTS stop to ratchdamri BTS ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from Skytrain siuam to saphai ntaksin ?,O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from saphantaksin BTS stop to ntl stadium BTS ?,O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from BTS chong nonsi to nationalistadium station ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium O
+Is national sport stadium on the same line as ratchadamree BTS stop ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How to go from SURASAK to Skytrain ntl stadium ?,O O O O B-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from Skytrain sala deng to taksin bridge ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Saphan_Taksin I-Saphan_Taksin O
+Is BTS suraak on the same line as Skytrain chong nonusi ?,O B-Surasak I-Surasak O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from surasack BTS to sailadaeng station ?,O O O O O O O O O B-Surasak I-Surasak O B-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from chong nonsri station to sala deng station ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is BTS sursak on the same line as nat stadium BTS stop ?,O B-Surasak I-Surasak O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from Skytrain chaon gnonsi to sioam station ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Siam I-Siam O
+Where do I need to transfer to go from syam BTS stop to sanam keela BTS stop ?,O O O O O O O O O B-Siam I-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from BTS SIAM to ratchadamli ?,O O O O O O O O B-Siam I-Siam O B-Ratchadamri O
+Is rautchadamri BTS stop on the same line as BTS SIAM ?,O B-Ratchadamri I-Ratchadamri I-Ratchadamri O O O O O B-Siam I-Siam O
+How to go from national stadiam to saphan takshin ?,O O O O B-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin O
+How to go from st louie BTS stop to BTS sara daeng ?,O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is shong nonsi BTS on the same line as Skytrain nationalstadium ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from BTS saphantaksih to BTS sara daeng ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Where do I need to transfer to go from SURASAK BTS stop to stadium national BTS stop ?,O O O O O O O O O B-Surasak I-Surasak I-Surasak O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from Skytrain sanam keela to ratshadamri ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri O
+Is Skytrain sala deng on the same line as SAINT LOUIS BTS stop ?,O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from RATCHADAMRI station to siamm BTS ?,O O O O B-Ratchadamri I-Ratchadamri O B-Siam I-Siam O
+Where do I need to transfer to go from Skytrain ratchdamri to syam station ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Siam I-Siam O
+How to go from national stadum BTS stop to saian tlouis BTS ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from ratchadaamri station to surasek ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Surasak O
+Where do I need to transfer to go from surasack BTS stop to chong nonsii BTS stop ?,O O O O O O O O O B-Surasak I-Surasak I-Surasak O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is saphantaeksin station on the same line as SAINT LOUIS BTS stop ?,O B-Saphan_Taksin I-Saphan_Taksin O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from Skytrain siaom to the national stadium station ?,O O O O B-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Is Skytrain sainf louis on the same line as surasek BTS ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Surasak I-Surasak O
+How to go from saphat aksin BTS to surassak BTS ?,O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+How long does it take to go from Skytrain rachadamri to chong nonsie BTS ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from BTS chongnonsee to soiam ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Siam O
+Is ratchdamri BTS on the same line as saintluis ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Saint_Louis O
+Where do I need to transfer to go from sala deng to BTS suraseak ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng O B-Surasak I-Surasak O
+Where do I need to transfer to go from surasoak to Skytrain saladang ?,O O O O O O O O O B-Surasak O B-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from BTS NATIONAL STADIUM to Skytrain rachadamri ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+Is eurasak BTS stop on the same line as ziam BTS stop ?,O B-Surasak I-Surasak I-Surasak O O O O O B-Siam I-Siam I-Siam O
+Where do I need to transfer to go from sintlouis station to BTS siyam ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Siam I-Siam O
+Is BTS cjong nonsi on the same line as BTS ratjadamri ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from chlng nonsi to nationap stadium BTS ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from rathadamri BTS to Skytrain national statium ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is st louis on the same line as BTS chong nonsri ?,O B-Saint_Louis I-Saint_Louis O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is Skytrain saphan taksen on the same line as BTS nationalstadium ?,O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O O O O O B-National_Stadium I-National_Stadium O
+How to go from Skytrain ntl stadium to surqsak station ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Surasak I-Surasak O
+Is Skytrain chong nonsy on the same line as national stadum BTS stop ?,O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+Is saphan taksen on the same line as BTS SIAM ?,O B-Saphan_Taksin I-Saphan_Taksin O O O O O B-Siam I-Siam O
+How long does it take to go from saladaaeng BTS stop to chong nonsii BTS stop ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is ratchadamli station on the same line as saphan takesin BTS stop ?,O B-Ratchadamri I-Ratchadamri O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from national sport stadium station to Skytrain reatchadamri ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from surasaak to saphiantaksin BTS ?,O O O O O O O O B-Surasak O B-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from ratchadamree BTS to st louie station ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How long does it take to go from chongnonsi station to Skytrain saintrouis ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Saint_Louis I-Saint_Louis O
+How long does it take to go from saphantaeksin to st. louis ?,O O O O O O O O B-Saphan_Taksin O B-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from Skytrain SAPHAN TAKSIN to BTS RATCHADAMRI ?,O O O O O O O O O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri I-Ratchadamri O
+Is sayam BTS stop on the same line as NATIONAL STADIUM BTS ?,O B-Siam I-Siam I-Siam O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O
+Is saint louiz on the same line as BTS sala daenf ?,O B-Saint_Louis I-Saint_Louis O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from chongnonsi BTS to ratchadumri BTS stop ?,O O O O B-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+How long does it take to go from BTS suracak to sqintlouis BTS stop ?,O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is suracak BTS stop on the same line as NATIONAL STADIUM BTS stop ?,O B-Surasak I-Surasak I-Surasak O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from sulasak to Skytrain sala daeg ?,O O O O O O O O B-Surasak O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from Skytrain SIAM to BTS SAPHAN TAKSIN ?,O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from BTS the national stadium to chong nonsie ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from Skytrain saitlouis to RATCHADAMRI BTS ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri O
+Where do I need to transfer to go from BTS national stadum to Skytrain saphan taksin ?,O O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from saint luis BTS stop to SIAM station ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Siam I-Siam O
+How long does it take to go from syam station to Skytrain saphan taksn ?,O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from chong nnsi station to saphantaksiun ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Saphan_Taksin O
+How to go from BTS chong nonsri to surasak station ?,O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Surasak I-Surasak O
+Where do I need to transfer to go from BTS st. louis to fhong nonsi station ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How to go from BTS saphantasin to Skytrain ratechadamri ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from Skytrain sulasak to BTS santl ouis ?,O O O O O O O O B-Surasak I-Surasak O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Where do I need to transfer to go from RATCHADAMRI BTS stop to Skytrain SALA DAENG ?,O O O O O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from surasak BTS to sala daeng BTS ?,O O O O O O O O B-Surasak I-Surasak O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+Is mationalstadium BTS on the same line as chong nonsie BTS stop ?,O B-National_Stadium I-National_Stadium O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Where do I need to transfer to go from Skytrain chong nonsii to sala dange station ?,O O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How long does it take to go from BTS chong nonsie to Skytrain radchadamri ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Ratchadamri I-Ratchadamri O
+How to go from surassak BTS stop to saphan takshin BTS ?,O O O O B-Surasak I-Surasak I-Surasak O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+How long does it take to go from saitlouis station to ratchadamri BTS ?,O O O O O O O O B-Saint_Louis I-Saint_Louis O B-Ratchadamri I-Ratchadamri O
+Is BTS nat stadium on the same line as ratchdamri BTS stop ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Ratchadamri I-Ratchadamri I-Ratchadamri O
+Is Skytrain national statium on the same line as sala deng station ?,O B-National_Stadium I-National_Stadium I-National_Stadium O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O
+How to go from Skytrain NATIONAL STADIUM to safant aksin ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saphan_Taksin I-Saphan_Taksin O
+Where do I need to transfer to go from sala aeng BTS stop to ratchdamri station ?,O O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Ratchadamri I-Ratchadamri O
+How to go from BTS saphaentaksin to Skytrain surausak ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak O
+Where do I need to transfer to go from st louie BTS stop to national statium station ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O B-National_Stadium I-National_Stadium I-National_Stadium O
+How long does it take to go from BTS sursak to BTS nationalstadium ?,O O O O O O O O B-Surasak I-Surasak O B-National_Stadium I-National_Stadium O
+How long does it take to go from chong nonsii BTS stop to sanam keela ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-National_Stadium I-National_Stadium O
+How long does it take to go from sala daeng BTS stop to wurasak ?,O O O O O O O O B-Sala_Daeng I-Sala_Daeng I-Sala_Daeng I-Sala_Daeng O B-Surasak O
+How long does it take to go from nationalstadium BTS stop to siaam BTS stop ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Siam I-Siam I-Siam O
+How long does it take to go from chong nonsui BTS to Skytrain sizm ?,O O O O O O O O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O B-Siam I-Siam O
+How to go from ratchadaamri station to saint luis ?,O O O O B-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis O
+How to go from sioam station to BTS national studiam ?,O O O O B-Siam I-Siam O B-National_Stadium I-National_Stadium I-National_Stadium O
+Where do I need to transfer to go from Skytrain st luis to chong nonsii BTS ?,O O O O O O O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+Is safantaksin station on the same line as ratcadamri ?,O B-Saphan_Taksin I-Saphan_Taksin O O O O O B-Ratchadamri O
+How to go from BTS national stadiam to Skytrain st luis ?,O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+Is st luis BTS stop on the same line as siaam BTS ?,O B-Saint_Louis I-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O O B-Siam I-Siam O
+Is nat stadium on the same line as BTS siaam ?,O B-National_Stadium I-National_Stadium O O O O O B-Siam I-Siam O
+How to go from soiam BTS to chong neonsi BTS stop ?,O O O O B-Siam I-Siam O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from ratchadumri BTS to saurasak station ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Surasak I-Surasak O
+How long does it take to go from siamm BTS to saphan takzin BTS stop ?,O O O O O O O O B-Siam I-Siam O B-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin I-Saphan_Taksin O
+Is Skytrain saitlouis on the same line as Skytrain ratchadamli ?,O B-Saint_Louis I-Saint_Louis O O O O O B-Ratchadamri I-Ratchadamri O
+How long does it take to go from Skytrain sanam keela to Skytrain chong nonsie ?,O O O O O O O O B-National_Stadium I-National_Stadium I-National_Stadium O B-Chong_Nonsi I-Chong_Nonsi I-Chong_Nonsi O
+How long does it take to go from BTS ratchdamri to BTS SAINT LOUIS ?,O O O O O O O O B-Ratchadamri I-Ratchadamri O B-Saint_Louis I-Saint_Louis I-Saint_Louis O
+How to go from saphaentaksin BTS to srasak BTS stop ?,O O O O B-Saphan_Taksin I-Saphan_Taksin O B-Surasak I-Surasak I-Surasak O
+Can I reach Skytrain st. lewis from Chulalongkorn University ?,O O O B-Saint_Louis I-Saint_Louis I-Saint_Louis O O O O
