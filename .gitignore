@@ -1,0 +1,4 @@
+models/deep_learning/model.safetensors
+data/processed/*.csv
+scripts/__pycache__
+models/deep_learning/checkpoint*

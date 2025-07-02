@@ -92,7 +92,7 @@ With a mixture of misspellings variants of station names in the dataset, T5 mode
 
 We choose T5 model for our demo app with Streamlit interface thanks to its higher F1 score. In addition, for classification task, T5 output is in canonical station names and ready to use in chatbot query or travel route recommendation, without the need to convert bio-tags into canonical station names.<br>
 
-Compared to the naive models with F1 score of 0.4564, T5 and CRF are far superior in terms of test F1 score.<br>
+Compared to the naive model with F1 score of 0.4564, T5 and CRF are far superior in terms of test F1 score.<br>
 <br>
 
 ***
